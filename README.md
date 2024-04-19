@@ -11,7 +11,7 @@ brute_installware.sh <installware .exe file> <wordlist>
 
 If a password is successfully found, the script will report back the password that worked, and it will automatically extract the contents of the .exe in the working directory.
 
-## equirements:
+## Requirements:
 
 p7zip-full
 
