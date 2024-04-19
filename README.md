@@ -1,5 +1,4 @@
 # Brute Force InstallAware
-A script to help brute force password on InstallAware .exe files
 
 This is a quick and dirty script to (ab)use 7z to brute force an InstallAware .exe file using a wordlist.
 
