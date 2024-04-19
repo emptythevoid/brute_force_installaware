@@ -14,3 +14,9 @@ If a password is successfully found, the script will report back the password th
 Requirements:
 
 p7zip-full
+
+Limitations:
+
+-Runs as a single process
+
+-7z will likely extract folder structure and files of zero size
